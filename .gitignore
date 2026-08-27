@@ -1,0 +1,23 @@
+# Data and model artifacts
+data/
+checkpoints/
+*.tsv
+*.csv
+*.zip
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
